@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Choice of fit method}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Fit function}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Example 1}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Example 2}{3}{}%
